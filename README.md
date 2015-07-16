@@ -10,4 +10,5 @@ This code requires:<br>
 -Implement form validation<br>
 -Add an option for animated rendering vs. instant rendering<br>
 -Add a screenshot function<br>
--Add an option to remove/disable a wheel
+-Add an option to remove/disable a wheel<br>
+-Allow settings to be saved and loaded<br>
