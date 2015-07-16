@@ -9,4 +9,5 @@ This code requires:<br>
 ## TODO
 -Implement form validation<br>
 -Add an option for animated rendering vs. instant rendering<br>
--Add a screenshot function
+-Add a screenshot function<br>
+-Add an option to remove/disable a wheel
